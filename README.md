@@ -8,4 +8,4 @@ go 学习笔记
 https://github.com/learninto/go-learn
 
 
-> 有任何问题环境在GitHub提issues
+> 有任何问题欢迎在GitHub提issues
